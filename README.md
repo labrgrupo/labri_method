@@ -1,2 +1,2 @@
-# LabRI_Method
+# LabRI Method
 LabRI_Method
